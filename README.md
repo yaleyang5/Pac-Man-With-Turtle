@@ -1,4 +1,4 @@
 # Pac-Man-With-Turtle
-Pac-Man using python's turtle functionality!
+Pac-Man using python's turtle functionality.
 
 Make sure to install Python with Turtle extension to see the emulation.
